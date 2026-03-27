@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Ignore large image folders (optional, remove these if you WANT to upload your test photos)
+shirts/
+people/
+me.jpg
